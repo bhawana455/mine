@@ -26,6 +26,7 @@ body {
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
+  text-align: center;
 }
 #myBtn {
   width: 120x;
@@ -33,10 +34,11 @@ body {
   padding: 10px;
   border: none;
   background: #000;
-  color: #fff;
+  color:#000;
   cursor: pointer;
   display: flex;
   margin: auto;
+  opacity:1 ;
 }
 
 #myBtn:hover {
